@@ -159,7 +159,7 @@ export const companies = [
   {
     id: 3,
     name: "HOSTINGER",
-    img: "/rust.svg",
+    img: "/next.svg",
     nameImg: "/hostName.svg",
   },
   {
