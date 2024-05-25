@@ -147,6 +147,8 @@ export const companies = [
     name: "Metamask",
     img: "/metamask.svg",
     //nameImg: "",
+    width: 20,
+    height: 20,
   },
   {
     id: 2,
@@ -181,6 +183,7 @@ export const workExperience = [
     desc: "Assisted in the development of a decentralized eVault system for legal records using React.js, smart contract, enhancing interactivity.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
+    
   },
   {
     id: 2,
